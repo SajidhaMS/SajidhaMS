@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sajidha Saththar, Graduate Software Engineer.
+- 👋 Hi, I’m Sajidha Saththar, A Graduate Software Engineer.
 - 👀 I’m interested in Mobile Application Development and Full-Stack Development.
 - 🌱 I’m currently looking for a job.
 - 💞️ I’m looking forward to collaborate on Mobile and Web Projects.
