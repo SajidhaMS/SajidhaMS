@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Sajidha Saththar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sajidha Saththar, Graduate Software Engineer.
+- 👀 I’m interested in Mobile Application Development and Full-Stack Development.
+- 🌱 I’m currently looking for a job.
+- 💞️ I’m looking forward to collaborate on Mobile and Web Projects.
+- 📫 How to reach me sajidhasaththar0825@gmail.com
 
 <!---
 SajidhaMS/SajidhaMS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
